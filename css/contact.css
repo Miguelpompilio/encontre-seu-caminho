@@ -1,0 +1,14 @@
+.center img {
+    max-width: 100%;
+}
+.center{
+    text-align: center;
+}
+body{
+    background-color: black;
+}
+h1 {
+    text-align: center;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
